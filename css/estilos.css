@@ -1,0 +1,33 @@
+body
+{
+	background: red;
+}
+
+#circulo1
+{
+	margin: 0 auto ;
+	background: #C4BD89;
+	width: 200px;
+	height: 200px;
+	border:5px solid black;
+	border-radius: 50%
+}
+#circulo2
+{
+	position: relative;
+	margin: 0 auto ;
+	margin-top: 14px;
+	background: #FA171E;
+	width: 150px;
+	height: 150px;
+	border:12px solid white;
+	border-radius: 50%
+}
+#titulo
+	{
+		font-family:"tahoma";
+		text-align: center;
+		position: relative;
+		margin: 0 auto ;
+		margin-top: 45px;
+	}
